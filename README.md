@@ -1,3 +1,8 @@
+## Screenshots
+
+![screenshot image](public/Screenshot.png)
+
+
 ## 🚀 Setup Instructions
 
 1. Clone the repository:
